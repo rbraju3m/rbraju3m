@@ -1,42 +1,46 @@
-## Hi there 👋
+### Hi there! I'm Rashedul Raju 👋
 
-I'm **Rashedul Raju**, a passionate and results-driven **Full Stack Software Engineer** specializing in building robust, scalable SaaS platforms and enterprise applications.
-
-I have strong expertise in the **PHP (Laravel/Symfony)** and **JavaScript (React.js/Redux)** ecosystems, focusing on developing clean, maintainable, and highly performant code.
+I am a dedicated **Full Stack Software Engineer** specializing in building robust, high-performance web applications and scalable **SaaS** solutions. With expertise across the entire stack—from hardened Linux servers to dynamic React frontends—I transform complex business requirements into elegant, maintainable code.
 
 ---
 
-### 💻 Core Expertise
+### 🛠️ Core Technology Stack & Expertise
 
-*   **SaaS Architecture:** Designing and developing multi-tenant e-commerce and license management platforms (like Appza Platform and E-commerce SaaS Platform).
-*   **Backend Development:** Expert in **Laravel** and **Symfony** for building secure, scalable **REST APIs** that power mobile and web applications.
-*   **Frontend Development:** Proficient with **React.js, Redux, Mantine,** and **Tailwind CSS** to create responsive, real-time user interfaces (e.g., POS Management System).
-*   **DevOps & Deployment:** Experienced in **Laravel Forge**, **Manual SSH deployment**, Linux server hardening, Nginx configuration, and implementing robust backup strategies.
-*   **System Integration:** Proven ability to integrate complex components, including Payment Gateways and automating processes like Bank Reconciliation and Job Queue systems.
+I thrive in the PHP and JavaScript ecosystems, consistently applying best practices for efficiency and scalability.
 
----
-
-### 🔭 Currently Working On / Key Projects
-
-*   **Appza Platform:** Engineering an end-to-end mobile app creation and license management ecosystem using Laravel (Core/APIs) and automation tools.
-*   **POS Management System:** Maintaining and evolving a comprehensive POS platform with real-time inventory and accounting modules (Laravel + React.js/Redux).
-*   **Scalable Procurement Systems:** Developing robust Purchase Management Systems using Symfony and React.js for optimized procurement workflows.
-
-### 🌱 I’m currently learning / Exploring
-
-*   Deepening my knowledge in **Python (Basic)** for utility scripting and advanced automation tasks.
-*   Exploring more advanced **DevOps/Containerization** tools like Docker and Kubernetes.
-
-### 📫 How to reach me:
-
-| Platform | Link |
+| Category | Key Technologies |
 | :--- | :--- |
-| **Email** | rbraju3m@gmail.com |
-| **LinkedIn** | [linkedin.com/in/rashedul-raju-68297611a](https://linkedin.com/in/rashedul-raju-68297611a) |
-| **Portfolio/GitHub** | [github.com/rbraju3m](https://github.com/rbraju3m) |
+| **Backend & APIs** | **PHP**, **Laravel** (Expert), **Symfony**, **MySQL**, REST API Integration |
+| **Frontend & UI** | **React.js**, **React Redux**, **Mantine**, **Tailwind CSS**, JavaScript, Bootstrap |
+| **DevOps & Infrastructure** | **Laravel Forge**, Linux/SSH Deployment, Nginx/Apache, SSL/TLS, Git & GitHub, Bitbucket |
+| **Specializations** | SaaS Development, Job Queue Automation, Database Optimization, Payment Gateway Integration (e.g., Bagisto) |
 
 ---
 
-## My GitHub Statistics
+### ✨ My Impact & Key Achievements
 
-[![rbraju3m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbraju3m&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/rbraju3m)
+My professional focus is on engineering systems that deliver measurable business value, often involving high-volume data handling and critical integrations.
+
+*   **SaaS Ecosystem Engineering:** Architected the **Appza Platform** (Laravel/APIs + App Builder) to streamline mobile app creation and sophisticated license management, providing a complete B2B software ecosystem.
+*   **Real-Time POS/ERP:** Developed and maintained a full-featured, real-time **POS Management System** (Laravel + React/Redux) optimizing Inventory, Sales, and Accounting processes.
+*   **Procurement Automation:** Led the development of a scalable **Purchase Management System (PMS)** using **Symfony** and React.js, significantly improving procurement tracking and accuracy.
+*   **Financial Automation:** Created a sophisticated **Bank Reconciliation System** using custom matching logic to automate transaction reconciliation and provide performance reporting.
+
+---
+
+### 🌐 GitHub Stats & Metrics
+
+I believe in transparency and continuous contribution. Check out my activity and language proficiency:
+
+| GitHub Stats | Top Languages |
+| :--- | :--- |
+| [![rbraju3m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbraju3m&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rbraju3m) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbraju3m&layout=compact&theme=radical&hide_border=true)](https://github.com/rbraju3m) |
+
+---
+
+### 📬 Let's Connect
+
+I am always open to discussing new projects, collaboration opportunities, or technical challenges.
+
+*   **LinkedIn:** [Rashedul Raju](https://linkedin.com/in/rashedul-raju-68297611a)
+*   **Email:** rbraju3m@gmail.com
