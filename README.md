@@ -28,23 +28,58 @@ My professional focus is on engineering systems that deliver measurable business
 
 ---
 
-### 🌐 GitHub Stats & Metrics
+## 🌐 GitHub Stats & Metrics
 
-I believe in transparency and continuous contribution. Check out my activity and language proficiency:
+I believe in transparency and continuous contribution. Here’s a snapshot of my GitHub activity and expertise.
 
-| GitHub Stats | Top Languages |
-| :--- | :--- |
-| [![rbraju3m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbraju3m&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rbraju3m) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbraju3m&layout=compact&theme=radical&hide_border=true)](https://github.com/rbraju3m) | [![GitHub Streak](https://streak-stats.demolab.com?user=rbraju3m&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![Trophy](https://github-profile-trophy.vercel.app/?username=rbraju3m&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) | [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbraju3m&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) | ![GitHub Metrics](https://metrics.lecoq.io/rbraju3m?template=classic&languages=1&isocalendar=1&achievements=1&base.indepth=true&base.hireable=true&config.timezone=Asia/Dhaka) | [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbraju3m&theme=radical&hide_border=true)](https://wakatime.com) | ![Profile Views](https://komarev.com/ghpvc/?username=rbraju3m&color=red&style=flat-square)
+---
 
-## 📊 GitHub Analytics
-
+### 📊 Core GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbraju3m&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=rbraju3m&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rbraju3m&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rbraju3m&theme=radical&hide_border=true" height="165"/>
 </p>
 
+---
+
+### 🧠 Language Usage
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbraju3m&theme=redical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbraju3m&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbraju3m&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 Achievements & Recognition
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbraju3m&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 🚀 Advanced Developer Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/rbraju3m?template=classic&languages=1&isocalendar=1&achievements=1&base.indepth=true&base.hireable=true&config.timezone=Asia/Dhaka"/>
+</p>
+
+---
+
+### ⏱️ Coding Time (WakaTime)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rbraju3m&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 👁️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbraju3m&color=red&style=flat-square"/>
 </p>
 
 
