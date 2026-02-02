@@ -10,7 +10,7 @@ I thrive in the PHP and JavaScript ecosystems, consistently applying best practi
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Backend & APIs** | **PHP**, **Laravel** (Expert), **Symfony**, **MySQL**, REST API Integration |
+| **Backend & APIs** | **PHP**, **Laravel** , **Symfony**, **MySQL**, REST API Integration |
 | **Frontend & UI** | **React.js**, **React Redux**, **Mantine**, **Tailwind CSS**, JavaScript, Bootstrap |
 | **DevOps & Infrastructure** | **Laravel Forge**, Linux/SSH Deployment, Nginx/Apache, SSL/TLS, Git & GitHub, Bitbucket |
 | **Specializations** | SaaS Development, Job Queue Automation, Database Optimization, Payment Gateway Integration (e.g., Bagisto) |
