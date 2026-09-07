@@ -1,0 +1,27 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Profile summary">
+
+<rect x="0.5" y="0.5" width="899" height="149" rx="12" fill="#0f0d1a" stroke="#2b2740"/>
+<text x="75.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">CONTRIBUTIONS</text>
+<text x="75.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#fe428e" text-anchor="middle">2.9k</text>
+<text x="75.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">past year</text>
+<line x1="150.0" y1="34" x2="150.0" y2="116" stroke="#2b2740" opacity="0.7"/>
+<text x="225.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">CURRENT STREAK</text>
+<text x="225.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#fe428e" text-anchor="middle">2</text>
+<text x="225.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">days</text>
+<line x1="300.0" y1="34" x2="300.0" y2="116" stroke="#2b2740" opacity="0.7"/>
+<text x="375.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">LONGEST STREAK</text>
+<text x="375.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#fe428e" text-anchor="middle">31</text>
+<text x="375.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">days</text>
+<line x1="450.0" y1="34" x2="450.0" y2="116" stroke="#2b2740" opacity="0.7"/>
+<text x="525.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">ACTIVE DAYS</text>
+<text x="525.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#eaf6ff" text-anchor="middle">258</text>
+<text x="525.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">of 366</text>
+<line x1="600.0" y1="34" x2="600.0" y2="116" stroke="#2b2740" opacity="0.7"/>
+<text x="675.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">REPOSITORIES</text>
+<text x="675.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#eaf6ff" text-anchor="middle">17</text>
+<text x="675.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">public, owned</text>
+<line x1="750.0" y1="34" x2="750.0" y2="116" stroke="#2b2740" opacity="0.7"/>
+<text x="825.0" y="62" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">FOLLOWERS</text>
+<text x="825.0" y="100" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#eaf6ff" text-anchor="middle">1</text>
+<text x="825.0" y="122" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">on GitHub</text>
+</svg>

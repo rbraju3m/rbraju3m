@@ -1,0 +1,63 @@
+name: Update Profile Charts
+
+# Every chart is rendered locally by scripts/generate_charts.py, so this needs
+# no personal access token and no third-party render service. GITHUB_TOKEN is
+# passed only to raise the REST rate limit from 60/hr to 5000/hr.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-charts
+  cancel-in-progress: false
+
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Render charts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_charts.py "${{ github.repository_owner }}" profile
+
+      - name: Verify every chart is well-formed
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import glob, sys, xml.dom.minidom as dom
+          files = sorted(glob.glob("profile/*.svg"))
+          if len(files) < 11:
+              sys.exit("expected at least 11 charts, found %d" % len(files))
+          for path in files:
+              dom.parse(path)          # refuse to commit a malformed card
+              print("ok", path)
+          PY
+
+      - name: Commit charts
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile
+          git diff --cached --quiet && { echo "no chart changes"; exit 0; }
+          git commit -m "chore: refresh profile charts"
+          git push

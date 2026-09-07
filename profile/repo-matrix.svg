@@ -1,0 +1,28 @@
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Project Matrix">
+
+<rect x="0.5" y="0.5" width="899" height="379" rx="12" fill="#0f0d1a" stroke="#2b2740"/>
+<rect x="24" y="22" width="4" height="16" rx="2" fill="#fe428e"/>
+<text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Project Matrix</text>
+<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">8 repositories by age, code volume and current activity</text>
+<line x1="62" y1="96.0" x2="866" y2="96.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.3"/>
+<text x="50" y="100.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">3MB</text>
+<line x1="62" y1="164.7" x2="866" y2="164.7" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.3"/>
+<text x="50" y="168.66666666666669" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">1.3MB</text>
+<line x1="62" y1="233.3" x2="866" y2="233.3" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.3"/>
+<text x="50" y="237.33333333333334" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">588.8kB</text>
+<line x1="62" y1="302.0" x2="866" y2="302.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.3"/>
+<text x="50" y="306.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">260.9kB</text>
+<g><title>laravel-with-react &#183; JavaScript &#183; 3MB &#183; created 2023-10-01 &#183; 0 recent events</title><circle cx="62.0" cy="96.0" r="7.0" fill="#f1e05a" fill-opacity="0.3" stroke="#f1e05a" stroke-width="1.5"/></g>
+<g><title>laravel-api-doc &#183; JavaScript &#183; 2.1MB &#183; created 2026-03-29 &#183; 0 recent events</title><circle cx="755.5" cy="124.8" r="7.0" fill="#f1e05a" fill-opacity="0.3" stroke="#f1e05a" stroke-width="1.5"/></g>
+<g><title>hospital-website &#183; PHP &#183; 2MB &#183; created 2026-08-21 &#183; 0 recent events</title><circle cx="866.0" cy="128.7" r="7.0" fill="#8993be" fill-opacity="0.3" stroke="#8993be" stroke-width="1.5"/></g>
+<g><title>dr-profile &#183; PHP &#183; 1.2MB &#183; created 2026-08-20 &#183; 0 recent events</title><circle cx="865.2" cy="171.1" r="7.0" fill="#8993be" fill-opacity="0.3" stroke="#8993be" stroke-width="1.5"/></g>
+<g><title>adminer &#183; PHP &#183; 953.2kB &#183; created 2024-03-30 &#183; 0 recent events</title><circle cx="199.9" cy="192.7" r="7.0" fill="#8993be" fill-opacity="0.3" stroke="#8993be" stroke-width="1.5"/></g>
+<g><title>gain-website &#183; Blade &#183; 719.7kB &#183; created 2026-06-25 &#183; 0 recent events</title><circle cx="822.6" cy="216.4" r="7.0" fill="#f7523f" fill-opacity="0.3" stroke="#f7523f" stroke-width="1.5"/></g>
+<g><title>hospital-template &#183; CSS &#183; 629.3kB &#183; created 2025-08-30 &#183; 0 recent events</title><circle cx="594.7" cy="227.7" r="7.0" fill="#563d7c" fill-opacity="0.3" stroke="#563d7c" stroke-width="1.5"/></g>
+<g><title>hospital-website-crescent &#183; Blade &#183; 260.9kB &#183; created 2026-08-03 &#183; 0 recent events</title><circle cx="852.3" cy="302.0" r="7.0" fill="#f7523f" fill-opacity="0.3" stroke="#f7523f" stroke-width="1.5"/></g>
+<text x="62.0" y="328" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Oct 2023</text>
+<text x="330.0" y="328" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Sep 2024</text>
+<text x="598.0" y="328" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Sep 2025</text>
+<text x="866.0" y="328" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Aug 2026</text>
+<text x="38" y="358" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Vertical: code size (log) &#183; horizontal: created &#183; bubble: recent activity</text>
+</svg>

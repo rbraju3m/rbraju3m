@@ -1,6 +1,13 @@
-# Hi there, I'm Rashedul Raju 👋
+<p align="center">
+  <img src="./profile/hero.svg" alt="Rashedul Raju - Full Stack Software Engineer" width="100%" />
+</p>
 
-### Full Stack Software Engineer | Laravel | React | SaaS
+<p align="center">
+  <a href="https://github.com/rbraju3m?tab=followers"><img src="https://img.shields.io/github/followers/rbraju3m?style=for-the-badge&color=fe428e&labelColor=141321&logo=github" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Laravel-Expert-fe428e?style=for-the-badge&labelColor=141321&logo=laravel" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-Expert-33d6f0?style=for-the-badge&labelColor=141321&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-7f5af0?style=for-the-badge&labelColor=141321&logo=googlemaps" alt="Location" />
+</p>
 
 I'm a **Full Stack Software Engineer** specializing in building robust, high-performance web applications, scalable SaaS platforms, business automation systems, and API-driven applications.
 
@@ -101,81 +108,75 @@ I enjoy turning complex business requirements into clean, maintainable, and prod
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 At a Glance
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="./profile/summary.svg" alt="Contributions, streaks, active days, repositories and followers" width="100%" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📅 Contribution Calendar
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rbraju3m&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="./profile/contribution-heatmap.svg" alt="Daily contribution calendar for the last year" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile/contribution-trend.svg" alt="Weekly contribution momentum" width="100%" />
+</p>
+
+### 🐍 Watch the graph get eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbraju3m/rbraju3m/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbraju3m/rbraju3m/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/rbraju3m/rbraju3m/output/snake.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🎯 Working Rhythm
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./profile/consistency.svg" alt="Distribution of daily contribution intensity" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile/activity-mix.svg" alt="Breakdown of recent activity by event type" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    src="./profile/activity.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
+  <img src="./profile/punch-card.svg" alt="Weekday by time-of-day activity matrix" width="100%" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🧬 Code & Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./profile/languages.svg" alt="Languages by bytes written and projects using them" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile/active-repos.svg" alt="Repositories with the most recent activity" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    src="./profile/achievements.svg"
-    alt="GitHub Achievements"
-    width="100%"
-  />
+  <img src="./profile/repo-timeline.svg" alt="Repositories created each year, coloured by primary language" width="100%" />
 </p>
-
----
-
-# 📊 Advanced Developer Metrics
 
 <p align="center">
-  <img
-    src="./profile/github-metrics.svg"
-    alt="Advanced GitHub Developer Metrics"
-    width="100%"
-  />
+  <img src="./profile/repo-matrix.svg" alt="Repositories plotted by age, code volume and current activity" width="100%" />
 </p>
-
----
-
-# ⏱️ WakaTime
-
-<p align="center">
-  <img
-    src="./profile/wakatime.svg"
-    alt="WakaTime Coding Activity"
-    width="100%"
-  />
-</p>
-
-> WakaTime statistics require a public WakaTime profile.
 
 ---
 
