@@ -1,85 +1,107 @@
-# Hi there! I'm Rashedul Raju 👋
+# Hi there, I'm Rashedul Raju 👋
 
 ### Full Stack Software Engineer | Laravel | React | SaaS
 
-I am a dedicated **Full Stack Software Engineer** specializing in building robust, high-performance web applications and scalable **SaaS solutions**.
+I'm a **Full Stack Software Engineer** specializing in building robust, high-performance web applications, scalable SaaS platforms, business automation systems, and API-driven applications.
 
-With expertise across the entire stack — from hardened Linux servers and backend architecture to dynamic React frontends — I transform complex business requirements into elegant, maintainable, and scalable software.
-
----
-
-## 🛠️ Core Technology Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & APIs** | PHP, Laravel, Symfony, MySQL, REST APIs |
-| **Frontend & UI** | React.js, Redux, Mantine, Tailwind CSS, JavaScript, Bootstrap |
-| **DevOps** | Linux, SSH, Laravel Forge, Nginx, Apache, SSL/TLS |
-| **Version Control** | Git, GitHub, Bitbucket |
-| **Specializations** | SaaS, ERP, POS, Job Queues, Database Optimization, Payment Integration |
+I enjoy turning complex business requirements into clean, maintainable, and production-ready software.
 
 ---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-### 💼 SaaS Ecosystems
+- 💻 Full Stack Software Engineer
+- 🧩 Specialized in **Laravel, PHP, React.js and MySQL**
+- ⚛️ Building modern frontend applications with **React.js, Redux, Mantine & Tailwind CSS**
+- 🚀 Experienced in developing **SaaS and B2B platforms**
+- 🔌 Strong experience with **REST APIs & third-party integrations**
+- 🗄️ Database design, optimization & performance tuning
+- ⚙️ Job queues, background processing & automation
+- 💳 Payment gateway integration
+- 🐧 Linux server management, Nginx, Apache & SSL/TLS
+- ☁️ Deployment and server management with Laravel Forge
+- 🔧 Git, GitHub, Bitbucket & CI/CD
+- 📦 Experienced with large-scale existing codebases and ERP/POS systems
 
-Architected and developed the **Appza Platform**, a complete SaaS ecosystem consisting of:
+---
 
-- Laravel-based backend APIs
-- License management
-- Mobile application builder
-- Automated application builds
-- Cloud storage integration
-- Multi-tenant architecture
-- API-driven application ecosystem
+# 🛠️ Tech Stack
 
-### 🏪 POS & ERP Systems
+### Backend
 
-Developed and maintained a full-featured **POS Management System** using:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony" alt="Backend Technologies" />
+</p>
 
+- PHP
 - Laravel
-- React.js
-- Redux
-- MySQL
-- REST APIs
-
-Including:
-
-- Inventory Management
-- Sales Management
-- Purchase Management
-- Accounting
-- Supplier Management
-- Customer Management
-- Reporting
-
-### 📦 Purchase Management System
-
-Led development of a scalable **Purchase Management System (PMS)** using:
-
 - Symfony
-- React.js
-- MySQL
-- REST APIs
-
-### 🏦 Bank Reconciliation System
-
-Developed a sophisticated **Bank Reconciliation System** with custom transaction matching logic.
-
-Features include:
-
-- Automated transaction matching
-- Bank statement processing
-- Reconciliation workflows
-- Exception handling
-- Financial reporting
+- REST API
+- Authentication & Authorization
+- Queue & Job Processing
+- Payment Gateway Integration
+- API Integration
 
 ---
 
-# 📊 GitHub Stats & Metrics
+### Frontend
 
-## 📈 Core GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+- React.js
+- React Redux
+- JavaScript
+- HTML5
+- CSS3
+- Mantine UI
+- Tailwind CSS
+- Bootstrap
+- Responsive Web Design
+
+---
+
+### Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" alt="Database Technologies" />
+</p>
+
+- MySQL
+- SQLite
+- Redis
+- Database Design
+- Query Optimization
+- Indexing
+- Data Migration
+- Large Dataset Processing
+
+---
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,git,github,bitbucket,bash" alt="DevOps Tools" />
+</p>
+
+- Linux
+- Nginx
+- Apache
+- SSL/TLS
+- Git
+- GitHub
+- Bitbucket
+- SSH
+- Laravel Forge
+- CI/CD
+- Server Deployment
+- Cron Jobs
+- Queue Workers
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -87,7 +109,6 @@ Features include:
     height="165"
     alt="GitHub Stats"
   />
-
   <img
     src="./profile/top-langs.svg"
     height="165"
@@ -97,7 +118,7 @@ Features include:
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
@@ -108,146 +129,105 @@ Features include:
 
 ---
 
-## 🧠 Most Used Languages
+# 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rbraju3m&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rbraju3m&theme=radical&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📊 Advanced Developer Metrics
-
-<p align="center">
-  <img
-    src="./profile/github-metrics.svg"
-    alt="GitHub Metrics"
+    src="./profile/activity.svg"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </p>
 
 ---
 
-## ⏱️ Coding Activity — WakaTime
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="./profile/achievements.svg"
+    alt="GitHub Achievements"
+    width="100%"
+  />
+</p>
+
+---
+
+# 📊 Advanced Developer Metrics
+
+<p align="center">
+  <img
+    src="./profile/github-metrics.svg"
+    alt="Advanced GitHub Developer Metrics"
+    width="100%"
+  />
+</p>
+
+---
+
+# ⏱️ WakaTime
 
 <p align="center">
   <img
     src="./profile/wakatime.svg"
     alt="WakaTime Coding Activity"
+    width="100%"
   />
 </p>
 
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rbraju3m&color=red&style=flat-square&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
+> WakaTime statistics require a public WakaTime profile.
 
 ---
 
-# 💻 Tech Stack
+# 💻 Featured Projects
 
-### Backend
+## 🚀 Appza Platform
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-</p>
+A complete software ecosystem designed around application building, licensing, APIs and B2B software management.
 
-### Frontend
+### Highlights
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- Laravel backend
+- REST API architecture
+- Application builder
+- Mobile application management
+- License management
+- B2B software ecosystem
+- Automated application build process
+- Cloud storage integration
+- Android/iOS application workflow
 
 ---
 
-# 🏗️ Engineering Expertise
+## 🏪 Real-Time POS / ERP System
+
+A scalable business management platform built for real-time sales, inventory and accounting operations.
+
+### Features
+
+- Product Management
+- Inventory Management
+- Purchase Management
+- Sales Management
+- Supplier Management
+- Customer Management
+- Accounting
+- Supplier Credit
+- Purchase Returns
+- Sales Returns
+- Payment Management
+- Employee Management
+- Attendance
+- Reporting
+- Multi-tenant architecture
+
+### Technology
 
 ```text
-Full Stack Development
-│
-├── Backend
-│   ├── Laravel
-│   ├── Symfony
-│   ├── REST APIs
-│   └── Authentication
-│
-├── Frontend
-│   ├── React.js
-│   ├── Redux
-│   ├── Mantine
-│   └── Tailwind CSS
-│
-├── Database
-│   ├── MySQL
-│   ├── SQLite
-│   ├── Query Optimization
-│   └── Data Modeling
-│
-├── SaaS
-│   ├── Multi-tenancy
-│   ├── License Management
-│   ├── Subscription Systems
-│   └── API Ecosystems
-│
-└── DevOps
-    ├── Linux
-    ├── Nginx
-    ├── Apache
-    ├── SSL/TLS
-    └── CI/CD
+Laravel
+React.js
+Redux
+MySQL
+REST API
+Electron
+SQLite
