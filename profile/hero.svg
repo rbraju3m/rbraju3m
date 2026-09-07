@@ -6,22 +6,22 @@
 <circle cx="116" cy="110" r="67" fill="none" stroke="url(#sweep)" stroke-width="3"/>
 <text x="220" y="96" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="34" font-weight="700" fill="#eaf6ff">Md. Rashedul Bari Raju</text>
 <text x="220" y="124" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="15" font-weight="400" fill="#8b88a8">Software Engineer | PHP | Laravel | Symfony | ReactJs | Redux | Mysql | LAMP</text>
-<rect x="220.0" y="148" width="92.0" height="28" rx="14" fill="#f1e05a" opacity="0.16"/>
-<rect x="220.0" y="148" width="92.0" height="28" rx="14" fill="none" stroke="#f1e05a" opacity="0.5"/>
-<text x="266.0" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#f1e05a" text-anchor="middle">JavaScript</text>
-<rect x="322.0" y="148" width="38.8" height="28" rx="14" fill="#8993be" opacity="0.16"/>
-<rect x="322.0" y="148" width="38.8" height="28" rx="14" fill="none" stroke="#8993be" opacity="0.5"/>
-<text x="341.4" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#8993be" text-anchor="middle">PHP</text>
-<rect x="370.8" y="148" width="54.0" height="28" rx="14" fill="#f7523f" opacity="0.16"/>
-<rect x="370.8" y="148" width="54.0" height="28" rx="14" fill="none" stroke="#f7523f" opacity="0.5"/>
-<text x="397.8" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#f7523f" text-anchor="middle">Blade</text>
-<rect x="434.8" y="148" width="38.8" height="28" rx="14" fill="#563d7c" opacity="0.16"/>
-<rect x="434.8" y="148" width="38.8" height="28" rx="14" fill="none" stroke="#563d7c" opacity="0.5"/>
-<text x="454.2" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#563d7c" text-anchor="middle">CSS</text>
-<rect x="483.6" y="148" width="54.0" height="28" rx="14" fill="#89e051" opacity="0.16"/>
-<rect x="483.6" y="148" width="54.0" height="28" rx="14" fill="none" stroke="#89e051" opacity="0.5"/>
-<text x="510.6" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#89e051" text-anchor="middle">Shell</text>
-<rect x="547.6" y="148" width="46.4" height="28" rx="14" fill="#c6538c" opacity="0.16"/>
-<rect x="547.6" y="148" width="46.4" height="28" rx="14" fill="none" stroke="#c6538c" opacity="0.5"/>
-<text x="570.8" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#c6538c" text-anchor="middle">SCSS</text>
+<rect x="220.0" y="148" width="38.8" height="28" rx="14" fill="#8993be" opacity="0.16"/>
+<rect x="220.0" y="148" width="38.8" height="28" rx="14" fill="none" stroke="#8993be" opacity="0.5"/>
+<text x="239.4" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#8993be" text-anchor="middle">PHP</text>
+<rect x="268.8" y="148" width="92.0" height="28" rx="14" fill="#f1e05a" opacity="0.16"/>
+<rect x="268.8" y="148" width="92.0" height="28" rx="14" fill="none" stroke="#f1e05a" opacity="0.5"/>
+<text x="314.8" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#f1e05a" text-anchor="middle">JavaScript</text>
+<rect x="370.8" y="148" width="46.4" height="28" rx="14" fill="#e34c26" opacity="0.16"/>
+<rect x="370.8" y="148" width="46.4" height="28" rx="14" fill="none" stroke="#e34c26" opacity="0.5"/>
+<text x="394.0" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#e34c26" text-anchor="middle">HTML</text>
+<rect x="427.2" y="148" width="54.0" height="28" rx="14" fill="#f7523f" opacity="0.16"/>
+<rect x="427.2" y="148" width="54.0" height="28" rx="14" fill="none" stroke="#f7523f" opacity="0.5"/>
+<text x="454.2" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#f7523f" text-anchor="middle">Blade</text>
+<rect x="491.2" y="148" width="38.8" height="28" rx="14" fill="#563d7c" opacity="0.16"/>
+<rect x="491.2" y="148" width="38.8" height="28" rx="14" fill="none" stroke="#563d7c" opacity="0.5"/>
+<text x="510.6" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#563d7c" text-anchor="middle">CSS</text>
+<rect x="540.0" y="148" width="46.4" height="28" rx="14" fill="#2b7489" opacity="0.16"/>
+<rect x="540.0" y="148" width="46.4" height="28" rx="14" fill="none" stroke="#2b7489" opacity="0.5"/>
+<text x="563.2" y="166" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="600" fill="#2b7489" text-anchor="middle">Less</text>
 </svg>
