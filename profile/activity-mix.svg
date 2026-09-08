@@ -3,16 +3,16 @@
 <rect x="0.5" y="0.5" width="437" height="245" rx="12" fill="#0f0d1a" stroke="#2b2740"/>
 <rect x="24" y="22" width="4" height="16" rx="2" fill="#fe428e"/>
 <text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Activity Mix</text>
-<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">94 public events over the last ~90 days</text>
+<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">93 public events over the last ~90 days</text>
 <rect x="38" y="98" width="11" height="11" rx="3" fill="#fe428e"/>
 <text x="58" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Commits</text>
 <rect x="168" y="98" width="200" height="11" rx="5.5" fill="#fe428e" opacity="0.14"/>
-<rect x="168" y="98" width="187.2" height="11" rx="5.5" fill="url(#am0)"><title>Commits: 88 events (94%)</title></rect>
-<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">88</text>
+<rect x="168" y="98" width="187.1" height="11" rx="5.5" fill="url(#am0)"><title>Commits: 87 events (94%)</title></rect>
+<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">87</text>
 <rect x="38" y="128" width="11" height="11" rx="3" fill="#33d6f0"/>
 <text x="58" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Created</text>
 <rect x="168" y="128" width="200" height="11" rx="5.5" fill="#33d6f0" opacity="0.14"/>
-<rect x="168" y="128" width="6.4" height="11" rx="5.5" fill="url(#am1)"><title>Created: 3 events (3%)</title></rect>
+<rect x="168" y="128" width="6.5" height="11" rx="5.5" fill="url(#am1)"><title>Created: 3 events (3%)</title></rect>
 <text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">3</text>
 <rect x="38" y="158" width="11" height="11" rx="3" fill="#f8d847"/>
 <text x="58" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Pull requests</text>
