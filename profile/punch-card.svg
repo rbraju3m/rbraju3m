@@ -43,8 +43,8 @@
 <rect x="440" y="179" width="56" height="56" rx="8" fill="#1c1930"><title>Tue 12:00-14:00 &#183; 0 events</title></rect>
 <rect x="503" y="179" width="56" height="56" rx="8" fill="#7d2f68"><title>Tue 14:00-16:00 &#183; 4 events</title></rect>
 <text x="531" y="212" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
-<rect x="566" y="179" width="56" height="56" rx="8" fill="#c03a7e"><title>Tue 16:00-18:00 &#183; 6 events</title></rect>
-<text x="594" y="212" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">6</text>
+<rect x="566" y="179" width="56" height="56" rx="8" fill="#7d2f68"><title>Tue 16:00-18:00 &#183; 5 events</title></rect>
+<text x="594" y="212" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">5</text>
 <rect x="629" y="179" width="56" height="56" rx="8" fill="#4b2a52"><title>Tue 18:00-20:00 &#183; 3 events</title></rect>
 <text x="657" y="212" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">3</text>
 <rect x="692" y="179" width="56" height="56" rx="8" fill="#1c1930"><title>Tue 20:00-22:00 &#183; 0 events</title></rect>
@@ -69,8 +69,8 @@
 <rect x="755" y="242" width="56" height="56" rx="8" fill="#4b2a52"><title>Wed 22:00-24:00 &#183; 3 events</title></rect>
 <text x="783" y="275" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">3</text>
 <text x="50" y="337" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">Thu</text>
-<rect x="62" y="305" width="56" height="56" rx="8" fill="#4b2a52"><title>Thu 00:00-02:00 &#183; 3 events</title></rect>
-<text x="90" y="338" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">3</text>
+<rect x="62" y="305" width="56" height="56" rx="8" fill="#7d2f68"><title>Thu 00:00-02:00 &#183; 4 events</title></rect>
+<text x="90" y="338" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
 <rect x="125" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 02:00-04:00 &#183; 0 events</title></rect>
 <rect x="188" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 04:00-06:00 &#183; 0 events</title></rect>
 <rect x="251" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 06:00-08:00 &#183; 0 events</title></rect>

@@ -16,9 +16,9 @@
 <rect x="270.6" y="131.8" width="40.0" height="92.2" rx="5" fill="url(#cbar)"><title>11-20 contributions: 54 days</title></rect>
 <text x="290.6" y="123.84" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">54</text>
 <text x="290.6" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">11-20</text>
-<rect x="342.2" y="166.0" width="40.0" height="58.0" rx="5" fill="url(#cbar)"><title>21+ contributions: 34 days</title></rect>
-<text x="362.2" y="157.97333333333333" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">34</text>
+<rect x="342.2" y="164.3" width="40.0" height="59.7" rx="5" fill="url(#cbar)"><title>21+ contributions: 35 days</title></rect>
+<text x="362.2" y="156.26666666666665" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">35</text>
 <text x="362.2" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">21+</text>
 <line x1="40" y1="227" x2="398" y2="227" stroke="#2b2740"/>
-<text x="38" y="274" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">260 active days &#183; 108 quiet &#183; 71% of the year active</text>
+<text x="38" y="274" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">261 active days &#183; 108 quiet &#183; 71% of the year active</text>
 </svg>
