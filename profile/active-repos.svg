@@ -6,22 +6,22 @@
 <text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Public events per repository, last ~90 days</text>
 <text x="38" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">orbito-lms</text>
 <rect x="168" y="98" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>orbito-lms: 40 events</title></rect>
-<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">40</text>
+<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>orbito-lms: 43 events</title></rect>
+<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">43</text>
 <text x="38" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">newspaper</text>
 <rect x="168" y="128" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="128" width="165.0" height="11" rx="5.5" fill="url(#ar)"><title>newspaper: 33 events</title></rect>
-<text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">33</text>
+<rect x="168" y="128" width="139.5" height="11" rx="5.5" fill="url(#ar)"><title>newspaper: 30 events</title></rect>
+<text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">30</text>
 <text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">hospital-website</text>
 <rect x="168" y="158" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="158" width="50.0" height="11" rx="5.5" fill="url(#ar)"><title>hospital-website: 10 events</title></rect>
-<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">10</text>
+<rect x="168" y="158" width="41.9" height="11" rx="5.5" fill="url(#ar)"><title>hospital-website: 9 events</title></rect>
+<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">9</text>
 <text x="38" y="198" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">rbraju3m</text>
 <rect x="168" y="188" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="188" width="40.0" height="11" rx="5.5" fill="url(#ar)"><title>rbraju3m: 8 events</title></rect>
+<rect x="168" y="188" width="37.2" height="11" rx="5.5" fill="url(#ar)"><title>rbraju3m: 8 events</title></rect>
 <text x="400" y="198" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">8</text>
 <text x="38" y="228" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">dr-profile</text>
 <rect x="168" y="218" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="218" width="10.0" height="11" rx="5.5" fill="url(#ar)"><title>dr-profile: 2 events</title></rect>
+<rect x="168" y="218" width="9.3" height="11" rx="5.5" fill="url(#ar)"><title>dr-profile: 2 events</title></rect>
 <text x="400" y="228" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">2</text>
 </svg>
