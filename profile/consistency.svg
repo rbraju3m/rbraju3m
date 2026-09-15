@@ -13,11 +13,11 @@
 <rect x="199.0" y="96.0" width="40.0" height="128.0" rx="5" fill="url(#cbar)"><title>6-10 contributions: 72 days</title></rect>
 <text x="219.0" y="88.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">72</text>
 <text x="219.0" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">6-10</text>
-<rect x="270.6" y="128.0" width="40.0" height="96.0" rx="5" fill="url(#cbar)"><title>11-20 contributions: 54 days</title></rect>
-<text x="290.6" y="120.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">54</text>
+<rect x="270.6" y="129.8" width="40.0" height="94.2" rx="5" fill="url(#cbar)"><title>11-20 contributions: 53 days</title></rect>
+<text x="290.6" y="121.77777777777777" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">53</text>
 <text x="290.6" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">11-20</text>
-<rect x="342.2" y="158.2" width="40.0" height="65.8" rx="5" fill="url(#cbar)"><title>21+ contributions: 37 days</title></rect>
-<text x="362.2" y="150.22222222222223" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">37</text>
+<rect x="342.2" y="156.4" width="40.0" height="67.6" rx="5" fill="url(#cbar)"><title>21+ contributions: 38 days</title></rect>
+<text x="362.2" y="148.44444444444446" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">38</text>
 <text x="362.2" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">21+</text>
 <line x1="40" y1="227" x2="398" y2="227" stroke="#2b2740"/>
 <text x="38" y="274" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">261 active days &#183; 106 quiet &#183; 71% of the year active</text>
