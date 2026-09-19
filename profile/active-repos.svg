@@ -14,8 +14,8 @@
 <text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">8</text>
 <text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">newspaper</text>
 <rect x="168" y="158" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="158" width="31.4" height="11" rx="5.5" fill="url(#ar)"><title>newspaper: 8 events</title></rect>
-<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">8</text>
+<rect x="168" y="158" width="23.5" height="11" rx="5.5" fill="url(#ar)"><title>newspaper: 6 events</title></rect>
+<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">6</text>
 <text x="38" y="198" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">ocr-reader-relea…</text>
 <rect x="168" y="188" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
 <rect x="168" y="188" width="7.8" height="11" rx="5.5" fill="url(#ar)"><title>ocr-reader-releases: 2 events</title></rect>
