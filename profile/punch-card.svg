@@ -77,8 +77,8 @@
 <rect x="377" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 10:00-12:00 &#183; 0 events</title></rect>
 <rect x="440" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 12:00-14:00 &#183; 0 events</title></rect>
 <rect x="503" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 14:00-16:00 &#183; 0 events</title></rect>
-<rect x="566" y="305" width="56" height="56" rx="8" fill="#7d2f68"><title>Thu 16:00-18:00 &#183; 4 events</title></rect>
-<text x="594" y="338" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
+<rect x="566" y="305" width="56" height="56" rx="8" fill="#7d2f68"><title>Thu 16:00-18:00 &#183; 3 events</title></rect>
+<text x="594" y="338" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">3</text>
 <rect x="629" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 18:00-20:00 &#183; 0 events</title></rect>
 <rect x="692" y="305" width="56" height="56" rx="8" fill="#1c1930"><title>Thu 20:00-22:00 &#183; 0 events</title></rect>
 <rect x="755" y="305" width="56" height="56" rx="8" fill="#4b2a52"><title>Thu 22:00-24:00 &#183; 1 events</title></rect>
