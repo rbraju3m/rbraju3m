@@ -13,12 +13,12 @@
 <rect x="199.0" y="96.0" width="40.0" height="128.0" rx="5" fill="url(#cbar)"><title>6-10 contributions: 67 days</title></rect>
 <text x="219.0" y="88.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">67</text>
 <text x="219.0" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">6-10</text>
-<rect x="270.6" y="115.1" width="40.0" height="108.9" rx="5" fill="url(#cbar)"><title>11-20 contributions: 57 days</title></rect>
-<text x="290.6" y="107.1044776119403" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">57</text>
+<rect x="270.6" y="113.2" width="40.0" height="110.8" rx="5" fill="url(#cbar)"><title>11-20 contributions: 58 days</title></rect>
+<text x="290.6" y="105.19402985074628" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">58</text>
 <text x="290.6" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">11-20</text>
 <rect x="342.2" y="136.1" width="40.0" height="87.9" rx="5" fill="url(#cbar)"><title>21+ contributions: 46 days</title></rect>
 <text x="362.2" y="128.11940298507463" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">46</text>
 <text x="362.2" y="246" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">21+</text>
 <line x1="40" y1="227" x2="398" y2="227" stroke="#2b2740"/>
-<text x="38" y="274" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">262 active days &#183; 103 quiet &#183; 72% of the year active</text>
+<text x="38" y="274" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">263 active days &#183; 103 quiet &#183; 72% of the year active</text>
 </svg>
