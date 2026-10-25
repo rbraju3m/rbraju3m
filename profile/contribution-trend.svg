@@ -3,7 +3,7 @@
 <rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="#0f0d1a" stroke="#2b2740"/>
 <rect x="24" y="22" width="4" height="16" rx="2" fill="#fe428e"/>
 <text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Weekly Momentum</text>
-<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Peak week 310 &amp;#183; average 71 per week</text>
+<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Peak week 310 &amp;#183; average 70 per week</text>
 <line x1="58" y1="92.0" x2="874" y2="92.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.4"/>
 <text x="46" y="96.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">310</text>
 <line x1="58" y1="132.0" x2="874" y2="132.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.4"/>
@@ -14,20 +14,20 @@
 <text x="46" y="216.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">78</text>
 <line x1="58" y1="252.0" x2="874" y2="252.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.4"/>
 <text x="46" y="256.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">0</text>
-<polygon fill="url(#area)" points="58.0,252.0 58.0,230.3 73.7,230.8 89.4,239.1 105.1,228.3 120.8,235.0 136.5,222.1 152.2,201.9 167.8,220.0 183.5,211.2 199.2,236.0 214.9,230.8 230.6,217.4 246.3,236.5 262.0,236.5 277.7,224.6 293.4,229.8 309.1,231.4 324.8,232.4 340.5,231.4 356.2,242.2 371.8,229.3 387.5,242.2 403.2,252.0 418.9,230.3 434.6,232.4 450.3,247.4 466.0,252.0 481.7,238.6 497.4,229.3 513.1,243.2 528.8,241.2 544.5,252.0 560.2,244.3 575.8,222.1 591.5,250.5 607.2,225.7 622.9,175.1 638.6,215.9 654.3,205.0 670.0,248.9 685.7,225.7 701.4,208.6 717.1,220.5 732.8,135.9 748.5,92.0 764.2,159.6 779.8,119.9 795.5,146.7 811.2,159.1 826.9,141.0 842.6,150.8 858.3,184.4 874.0,226.7 874.0,252.0"/>
-<polyline fill="none" stroke="#fe428e" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" points="58.0,230.3 73.7,230.8 89.4,239.1 105.1,228.3 120.8,235.0 136.5,222.1 152.2,201.9 167.8,220.0 183.5,211.2 199.2,236.0 214.9,230.8 230.6,217.4 246.3,236.5 262.0,236.5 277.7,224.6 293.4,229.8 309.1,231.4 324.8,232.4 340.5,231.4 356.2,242.2 371.8,229.3 387.5,242.2 403.2,252.0 418.9,230.3 434.6,232.4 450.3,247.4 466.0,252.0 481.7,238.6 497.4,229.3 513.1,243.2 528.8,241.2 544.5,252.0 560.2,244.3 575.8,222.1 591.5,250.5 607.2,225.7 622.9,175.1 638.6,215.9 654.3,205.0 670.0,248.9 685.7,225.7 701.4,208.6 717.1,220.5 732.8,135.9 748.5,92.0 764.2,159.6 779.8,119.9 795.5,146.7 811.2,159.1 826.9,141.0 842.6,150.8 858.3,184.4 874.0,226.7"/>
+<polygon fill="url(#area)" points="58.0,252.0 58.0,230.8 73.7,239.1 89.4,228.3 105.1,235.0 120.8,222.1 136.5,201.9 152.2,220.0 167.8,211.2 183.5,236.0 199.2,230.8 214.9,217.4 230.6,236.5 246.3,236.5 262.0,224.6 277.7,229.8 293.4,231.4 309.1,232.4 324.8,231.4 340.5,242.2 356.2,229.3 371.8,242.2 387.5,252.0 403.2,230.3 418.9,232.4 434.6,247.4 450.3,252.0 466.0,238.6 481.7,229.3 497.4,243.2 513.1,241.2 528.8,252.0 544.5,244.3 560.2,222.1 575.8,250.5 591.5,225.7 607.2,175.1 622.9,215.9 638.6,205.0 654.3,248.9 670.0,225.7 685.7,208.6 701.4,220.5 717.1,135.9 732.8,92.0 748.5,159.6 764.2,119.9 779.8,146.7 795.5,159.1 811.2,141.0 826.9,150.8 842.6,184.4 858.3,226.7 874.0,252.0 874.0,252.0"/>
+<polyline fill="none" stroke="#fe428e" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" points="58.0,230.8 73.7,239.1 89.4,228.3 105.1,235.0 120.8,222.1 136.5,201.9 152.2,220.0 167.8,211.2 183.5,236.0 199.2,230.8 214.9,217.4 230.6,236.5 246.3,236.5 262.0,224.6 277.7,229.8 293.4,231.4 309.1,232.4 324.8,231.4 340.5,242.2 356.2,229.3 371.8,242.2 387.5,252.0 403.2,230.3 418.9,232.4 434.6,247.4 450.3,252.0 466.0,238.6 481.7,229.3 497.4,243.2 513.1,241.2 528.8,252.0 544.5,244.3 560.2,222.1 575.8,250.5 591.5,225.7 607.2,175.1 622.9,215.9 638.6,205.0 654.3,248.9 670.0,225.7 685.7,208.6 701.4,220.5 717.1,135.9 732.8,92.0 748.5,159.6 764.2,119.9 779.8,146.7 795.5,159.1 811.2,141.0 826.9,150.8 842.6,184.4 858.3,226.7 874.0,252.0"/>
 <text x="58.0" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Oct</text>
-<text x="89.4" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Nov</text>
-<text x="167.8" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Dec</text>
-<text x="230.6" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jan</text>
-<text x="293.4" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Feb</text>
-<text x="356.2" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Mar</text>
-<text x="434.6" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Apr</text>
-<text x="497.4" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">May</text>
-<text x="575.8" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jun</text>
-<text x="638.6" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jul</text>
-<text x="701.4" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Aug</text>
-<text x="779.8" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Sep</text>
-<text x="842.6" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Oct</text>
-<circle cx="748.5" cy="92.0" r="5" fill="#33d6f0" stroke="#0f0d1a" stroke-width="2"/>
+<text x="73.7" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Nov</text>
+<text x="152.2" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Dec</text>
+<text x="214.9" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jan</text>
+<text x="277.7" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Feb</text>
+<text x="340.5" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Mar</text>
+<text x="418.9" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Apr</text>
+<text x="481.7" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">May</text>
+<text x="560.2" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jun</text>
+<text x="622.9" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Jul</text>
+<text x="685.7" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Aug</text>
+<text x="764.2" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Sep</text>
+<text x="826.9" y="280" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">Oct</text>
+<circle cx="732.8" cy="92.0" r="5" fill="#33d6f0" stroke="#0f0d1a" stroke-width="2"/>
 </svg>
