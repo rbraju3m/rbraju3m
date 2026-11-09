@@ -6,14 +6,14 @@
 <text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Public events per repository, last ~90 days</text>
 <text x="38" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">amarbangladesh</text>
 <rect x="168" y="98" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>amarbangladesh: 52 events</title></rect>
-<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">52</text>
+<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>amarbangladesh: 47 events</title></rect>
+<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">47</text>
 <text x="38" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-plugin</text>
 <rect x="168" y="128" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="128" width="80.8" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-plugin: 21 events</title></rect>
+<rect x="168" y="128" width="89.4" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-plugin: 21 events</title></rect>
 <text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">21</text>
 <text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-mobile</text>
 <rect x="168" y="158" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="158" width="80.8" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-mobile: 21 events</title></rect>
+<rect x="168" y="158" width="89.4" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-mobile: 21 events</title></rect>
 <text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">21</text>
 </svg>
