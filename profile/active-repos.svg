@@ -4,16 +4,16 @@
 <rect x="24" y="22" width="4" height="16" rx="2" fill="#fe428e"/>
 <text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Where I'm Working</text>
 <text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Public events per repository, last ~90 days</text>
-<text x="38" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">amarbangladesh</text>
+<text x="38" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-plugin</text>
 <rect x="168" y="98" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>amarbangladesh: 22 events</title></rect>
-<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">22</text>
-<text x="38" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-plugin</text>
+<rect x="168" y="98" width="200.0" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-plugin: 21 events</title></rect>
+<text x="400" y="108" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">21</text>
+<text x="38" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-mobile</text>
 <rect x="168" y="128" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="128" width="181.8" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-plugin: 20 events</title></rect>
+<rect x="168" y="128" width="190.5" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-mobile: 20 events</title></rect>
 <text x="400" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">20</text>
-<text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">appza-core-mobile</text>
+<text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">amarbangladesh</text>
 <rect x="168" y="158" width="200" height="11" rx="5.5" fill="#7f5af0" opacity="0.14"/>
-<rect x="168" y="158" width="181.8" height="11" rx="5.5" fill="url(#ar)"><title>appza-core-mobile: 20 events</title></rect>
-<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">20</text>
+<rect x="168" y="158" width="142.9" height="11" rx="5.5" fill="url(#ar)"><title>amarbangladesh: 15 events</title></rect>
+<text x="400" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="end">15</text>
 </svg>
