@@ -31,10 +31,10 @@
 <rect x="631.5" y="196.9" width="56.0" height="10.8" rx="3" fill="#3572A5"><title>2025 &#183; Python: 1 repo(s)</title></rect>
 <text x="659.5" y="188.9230769230769" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
 <text x="659.5" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2025</text>
-<rect x="765.2" y="153.8" width="56.0" height="86.2" rx="3" fill="#8993be"><title>2026 &#183; PHP: 8 repo(s)</title></rect>
-<rect x="765.2" y="132.3" width="56.0" height="21.5" rx="3" fill="#f7523f"><title>2026 &#183; Blade: 2 repo(s)</title></rect>
-<rect x="765.2" y="121.5" width="56.0" height="10.8" rx="3" fill="#f1e05a"><title>2026 &#183; JavaScript: 1 repo(s)</title></rect>
-<rect x="765.2" y="110.8" width="56.0" height="10.8" rx="3" fill="#3178c6"><title>2026 &#183; TypeScript: 1 repo(s)</title></rect>
+<rect x="765.2" y="164.6" width="56.0" height="75.4" rx="3" fill="#8993be"><title>2026 &#183; PHP: 7 repo(s)</title></rect>
+<rect x="765.2" y="143.1" width="56.0" height="21.5" rx="3" fill="#f7523f"><title>2026 &#183; Blade: 2 repo(s)</title></rect>
+<rect x="765.2" y="121.5" width="56.0" height="21.5" rx="3" fill="#3178c6"><title>2026 &#183; TypeScript: 2 repo(s)</title></rect>
+<rect x="765.2" y="110.8" width="56.0" height="10.8" rx="3" fill="#f1e05a"><title>2026 &#183; JavaScript: 1 repo(s)</title></rect>
 <rect x="765.2" y="100.0" width="56.0" height="10.8" rx="3" fill="#8b88a8"><title>2026 &#183; Other: 1 repo(s)</title></rect>
 <text x="793.2" y="91.99999999999997" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">13</text>
 <text x="793.2" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2026</text>
@@ -46,10 +46,10 @@
 <text x="197" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Other</text>
 <rect x="242.0" y="288" width="10" height="10" rx="3" fill="#f7523f"/>
 <text x="258" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Blade</text>
-<rect x="303.0" y="288" width="10" height="10" rx="3" fill="#e34c26"/>
-<text x="319" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">HTML</text>
-<rect x="357.0" y="288" width="10" height="10" rx="3" fill="#563d7c"/>
-<text x="373" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">CSS</text>
-<rect x="404.0" y="288" width="10" height="10" rx="3" fill="#3572A5"/>
-<text x="420" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Python</text>
+<rect x="303.0" y="288" width="10" height="10" rx="3" fill="#3178c6"/>
+<text x="319" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">TypeScript</text>
+<rect x="399.0" y="288" width="10" height="10" rx="3" fill="#e34c26"/>
+<text x="415" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">HTML</text>
+<rect x="453.0" y="288" width="10" height="10" rx="3" fill="#563d7c"/>
+<text x="469" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">CSS</text>
 </svg>
