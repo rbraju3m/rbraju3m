@@ -3,37 +3,37 @@
 <rect x="0.5" y="0.5" width="437" height="409" rx="12" fill="#0f0d1a" stroke="#2b2740"/>
 <rect x="24" y="22" width="4" height="16" rx="2" fill="#fe428e"/>
 <text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Language Footprint</text>
-<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Share of 31.6MB written, and projects using it</text>
+<text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Share of 32.5MB written, and projects using it</text>
 <text x="38" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">PHP</text>
 <rect x="136" y="94" width="146" height="11" rx="5.5" fill="#8993be" opacity="0.14"/>
-<rect x="136" y="94" width="53.6" height="11" rx="5.5" fill="url(#lg0)"><title>PHP: 11.6MB across 16 repos (36.7%)</title></rect>
-<text x="292" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">36.7%</text>
-<text x="410" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">16 repos</text>
+<rect x="136" y="94" width="54.1" height="11" rx="5.5" fill="url(#lg0)"><title>PHP: 12MB across 17 repos (37.1%)</title></rect>
+<text x="292" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">37.1%</text>
+<text x="410" y="104" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">17 repos</text>
 <text x="38" y="136" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">JavaScript</text>
 <rect x="136" y="126" width="146" height="11" rx="5.5" fill="#f1e05a" opacity="0.14"/>
-<rect x="136" y="126" width="23.5" height="11" rx="5.5" fill="url(#lg1)"><title>JavaScript: 5.1MB across 15 repos (16.1%)</title></rect>
-<text x="292" y="136" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">16.1%</text>
-<text x="410" y="136" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">15 repos</text>
+<rect x="136" y="126" width="22.8" height="11" rx="5.5" fill="url(#lg1)"><title>JavaScript: 5.1MB across 16 repos (15.6%)</title></rect>
+<text x="292" y="136" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">15.6%</text>
+<text x="410" y="136" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">16 repos</text>
 <text x="38" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">HTML</text>
 <rect x="136" y="158" width="146" height="11" rx="5.5" fill="#e34c26" opacity="0.14"/>
-<rect x="136" y="158" width="21.4" height="11" rx="5.5" fill="url(#lg2)"><title>HTML: 4.6MB across 6 repos (14.6%)</title></rect>
-<text x="292" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">14.6%</text>
+<rect x="136" y="158" width="20.8" height="11" rx="5.5" fill="url(#lg2)"><title>HTML: 4.6MB across 6 repos (14.3%)</title></rect>
+<text x="292" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">14.3%</text>
 <text x="410" y="168" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">6 repos</text>
 <text x="38" y="200" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">TypeScript</text>
 <rect x="136" y="190" width="146" height="11" rx="5.5" fill="#3178c6" opacity="0.14"/>
-<rect x="136" y="190" width="17.4" height="11" rx="5.5" fill="url(#lg3)"><title>TypeScript: 3.8MB across 3 repos (11.9%)</title></rect>
-<text x="292" y="200" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">11.9%</text>
-<text x="410" y="200" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">3 repos</text>
+<rect x="136" y="190" width="18.8" height="11" rx="5.5" fill="url(#lg3)"><title>TypeScript: 4.2MB across 4 repos (12.8%)</title></rect>
+<text x="292" y="200" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">12.8%</text>
+<text x="410" y="200" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">4 repos</text>
 <text x="38" y="232" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Blade</text>
 <rect x="136" y="222" width="146" height="11" rx="5.5" fill="#f7523f" opacity="0.14"/>
-<rect x="136" y="222" width="16.0" height="11" rx="5.5" fill="url(#lg4)"><title>Blade: 3.5MB across 12 repos (11.0%)</title></rect>
-<text x="292" y="232" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">11.0%</text>
-<text x="410" y="232" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">12 repos</text>
+<rect x="136" y="222" width="15.7" height="11" rx="5.5" fill="url(#lg4)"><title>Blade: 3.5MB across 13 repos (10.7%)</title></rect>
+<text x="292" y="232" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">10.7%</text>
+<text x="410" y="232" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">13 repos</text>
 <text x="38" y="264" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">CSS</text>
 <rect x="136" y="254" width="146" height="11" rx="5.5" fill="#563d7c" opacity="0.14"/>
-<rect x="136" y="254" width="7.9" height="11" rx="5.5" fill="url(#lg5)"><title>CSS: 1.7MB across 13 repos (5.4%)</title></rect>
-<text x="292" y="264" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">5.4%</text>
-<text x="410" y="264" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">13 repos</text>
+<rect x="136" y="254" width="7.7" height="11" rx="5.5" fill="url(#lg5)"><title>CSS: 1.7MB across 14 repos (5.3%)</title></rect>
+<text x="292" y="264" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">5.3%</text>
+<text x="410" y="264" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">14 repos</text>
 <text x="38" y="296" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Less</text>
 <rect x="136" y="286" width="146" height="11" rx="5.5" fill="#2b7489" opacity="0.14"/>
 <rect x="136" y="286" width="4.0" height="11" rx="5.5" fill="url(#lg6)"><title>Less: 833.2kB across 2 repos (2.6%)</title></rect>
@@ -46,7 +46,7 @@
 <text x="410" y="328" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">1 repo</text>
 <text x="38" y="360" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="13" font-weight="600" fill="#eaf6ff">Shell</text>
 <rect x="136" y="350" width="146" height="11" rx="5.5" fill="#89e051" opacity="0.14"/>
-<rect x="136" y="350" width="4.0" height="11" rx="5.5" fill="url(#lg8)"><title>Shell: 95.3kB across 7 repos (0.3%)</title></rect>
+<rect x="136" y="350" width="4.0" height="11" rx="5.5" fill="url(#lg8)"><title>Shell: 98.7kB across 8 repos (0.3%)</title></rect>
 <text x="292" y="360" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff">0.3%</text>
-<text x="410" y="360" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">7 repos</text>
+<text x="410" y="360" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">8 repos</text>
 </svg>
