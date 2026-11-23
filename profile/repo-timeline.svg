@@ -5,38 +5,38 @@
 <text x="38" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Portfolio Timeline</text>
 <text x="38" y="55" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">Repositories created each year, coloured by primary language</text>
 <line x1="58" y1="100.0" x2="860" y2="100.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.35"/>
-<text x="46" y="104.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">16</text>
+<text x="46" y="104.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">15</text>
 <line x1="58" y1="146.7" x2="860" y2="146.7" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.35"/>
-<text x="46" y="150.66666666666669" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">11</text>
+<text x="46" y="150.66666666666669" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">10</text>
 <line x1="58" y1="193.3" x2="860" y2="193.3" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.35"/>
 <text x="46" y="197.33333333333334" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">5</text>
 <line x1="58" y1="240.0" x2="860" y2="240.0" stroke="#2b2740" stroke-dasharray="3 5" opacity="0.35"/>
 <text x="46" y="244.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="end">0</text>
-<rect x="96.8" y="231.2" width="56.0" height="8.8" rx="3" fill="#f1e05a"><title>2019 &#183; JavaScript: 1 repo(s)</title></rect>
-<text x="124.8" y="223.25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
+<rect x="96.8" y="230.7" width="56.0" height="9.3" rx="3" fill="#f1e05a"><title>2019 &#183; JavaScript: 1 repo(s)</title></rect>
+<text x="124.8" y="222.66666666666666" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
 <text x="124.8" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2019</text>
-<rect x="230.5" y="231.2" width="56.0" height="8.8" rx="3" fill="#8b88a8"><title>2022 &#183; Other: 1 repo(s)</title></rect>
-<text x="258.5" y="223.25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
+<rect x="230.5" y="230.7" width="56.0" height="9.3" rx="3" fill="#8b88a8"><title>2022 &#183; Other: 1 repo(s)</title></rect>
+<text x="258.5" y="222.66666666666666" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
 <text x="258.5" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2022</text>
-<rect x="364.2" y="231.2" width="56.0" height="8.8" rx="3" fill="#f1e05a"><title>2023 &#183; JavaScript: 1 repo(s)</title></rect>
-<text x="392.2" y="223.25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
+<rect x="364.2" y="230.7" width="56.0" height="9.3" rx="3" fill="#f1e05a"><title>2023 &#183; JavaScript: 1 repo(s)</title></rect>
+<text x="392.2" y="222.66666666666666" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">1</text>
 <text x="392.2" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2023</text>
-<rect x="497.8" y="231.2" width="56.0" height="8.8" rx="3" fill="#8993be"><title>2024 &#183; PHP: 1 repo(s)</title></rect>
-<rect x="497.8" y="222.5" width="56.0" height="8.8" rx="3" fill="#e34c26"><title>2024 &#183; HTML: 1 repo(s)</title></rect>
-<text x="525.8" y="214.5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">2</text>
+<rect x="497.8" y="230.7" width="56.0" height="9.3" rx="3" fill="#8993be"><title>2024 &#183; PHP: 1 repo(s)</title></rect>
+<rect x="497.8" y="221.3" width="56.0" height="9.3" rx="3" fill="#e34c26"><title>2024 &#183; HTML: 1 repo(s)</title></rect>
+<text x="525.8" y="213.33333333333331" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">2</text>
 <text x="525.8" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2024</text>
-<rect x="631.5" y="231.2" width="56.0" height="8.8" rx="3" fill="#563d7c"><title>2025 &#183; CSS: 1 repo(s)</title></rect>
-<rect x="631.5" y="222.5" width="56.0" height="8.8" rx="3" fill="#f7523f"><title>2025 &#183; Blade: 1 repo(s)</title></rect>
-<rect x="631.5" y="213.8" width="56.0" height="8.8" rx="3" fill="#8b88a8"><title>2025 &#183; Other: 1 repo(s)</title></rect>
-<rect x="631.5" y="205.0" width="56.0" height="8.8" rx="3" fill="#3572A5"><title>2025 &#183; Python: 1 repo(s)</title></rect>
-<text x="659.5" y="197.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
+<rect x="631.5" y="230.7" width="56.0" height="9.3" rx="3" fill="#563d7c"><title>2025 &#183; CSS: 1 repo(s)</title></rect>
+<rect x="631.5" y="221.3" width="56.0" height="9.3" rx="3" fill="#f7523f"><title>2025 &#183; Blade: 1 repo(s)</title></rect>
+<rect x="631.5" y="212.0" width="56.0" height="9.3" rx="3" fill="#8b88a8"><title>2025 &#183; Other: 1 repo(s)</title></rect>
+<rect x="631.5" y="202.7" width="56.0" height="9.3" rx="3" fill="#3572A5"><title>2025 &#183; Python: 1 repo(s)</title></rect>
+<text x="659.5" y="194.66666666666663" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">4</text>
 <text x="659.5" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2025</text>
-<rect x="765.2" y="152.5" width="56.0" height="87.5" rx="3" fill="#8993be"><title>2026 &#183; PHP: 10 repo(s)</title></rect>
-<rect x="765.2" y="135.0" width="56.0" height="17.5" rx="3" fill="#f7523f"><title>2026 &#183; Blade: 2 repo(s)</title></rect>
-<rect x="765.2" y="117.5" width="56.0" height="17.5" rx="3" fill="#3178c6"><title>2026 &#183; TypeScript: 2 repo(s)</title></rect>
-<rect x="765.2" y="108.8" width="56.0" height="8.8" rx="3" fill="#f1e05a"><title>2026 &#183; JavaScript: 1 repo(s)</title></rect>
-<rect x="765.2" y="100.0" width="56.0" height="8.8" rx="3" fill="#8b88a8"><title>2026 &#183; Other: 1 repo(s)</title></rect>
-<text x="793.2" y="92.0" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">16</text>
+<rect x="765.2" y="156.0" width="56.0" height="84.0" rx="3" fill="#8993be"><title>2026 &#183; PHP: 9 repo(s)</title></rect>
+<rect x="765.2" y="137.3" width="56.0" height="18.7" rx="3" fill="#f7523f"><title>2026 &#183; Blade: 2 repo(s)</title></rect>
+<rect x="765.2" y="118.7" width="56.0" height="18.7" rx="3" fill="#3178c6"><title>2026 &#183; TypeScript: 2 repo(s)</title></rect>
+<rect x="765.2" y="109.3" width="56.0" height="9.3" rx="3" fill="#f1e05a"><title>2026 &#183; JavaScript: 1 repo(s)</title></rect>
+<rect x="765.2" y="100.0" width="56.0" height="9.3" rx="3" fill="#8b88a8"><title>2026 &#183; Other: 1 repo(s)</title></rect>
+<text x="793.2" y="92.00000000000001" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11" font-weight="600" fill="#eaf6ff" text-anchor="middle">15</text>
 <text x="793.2" y="262" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8" text-anchor="middle">2026</text>
 <rect x="38.0" y="288" width="10" height="10" rx="3" fill="#8993be"/>
 <text x="54" y="297" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" font-weight="400" fill="#8b88a8">PHP</text>
